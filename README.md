@@ -22,7 +22,7 @@ This is a basic packet sniffer written in Python for Linux systems. It uses raw 
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/Darnxd/network-packet-sniffing.git
 
 cd network-packet-sniffing
